@@ -1,0 +1,16 @@
+
+IN-CLASS ACTIVITY
+
+* Profile page for yourself or a fictional character.
+* Pure HTML, no styling.
+* Required elements:
+    H1, P, UL, BR, IMG
+* Also add EM and STRONG to text.
+* Page should pass validator.w3.org.
+
+WORK IN PAIRS.
+WRITE BOTH NAMES AS COMMENTS IN HTML.
+SUBMIT HTML AND IMAGE TO D2L.
+
+(Update:  a hotlinked image is also acceptable.)
+

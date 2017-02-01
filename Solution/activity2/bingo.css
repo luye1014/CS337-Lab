@@ -1,0 +1,47 @@
+table, td {
+	border-collapse: collapse;
+	border: 3px solid black;
+	padding: 0;
+	background-color: green;
+}
+div {
+ 	margin-left: auto;
+	margin-right: auto;
+
+	width: 128px;
+	height: 64px;
+	background-color: orange;
+	text-align: center;
+
+	/* try a flexbox! */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.top {
+	font-size: 40px;
+	background-color: red;
+}
+.border {
+	background-color: yellow;	
+}
+.middle {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+.center {
+	border-radius: 32px;
+}
+.se, .ne {
+	border-color: blue;
+	border-width: 5px;	
+}
+.se {
+	border-style: solid;
+}
+.ne {
+	border-style: dashed;
+}
+#star {
+	background-color: black;
+}
