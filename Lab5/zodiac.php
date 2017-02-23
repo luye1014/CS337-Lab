@@ -2,8 +2,9 @@
 <html>
 <head></head>
 <body>
-  <?php
+  your sign is very <?php
     echo $_POST['aries'];
-   ?>
+    echo $_POST['text'];
+   ?><br>
 </body>
 </html>
