@@ -3,6 +3,7 @@
 <head></head>
 <body>
   <?php
-    echo $_POST["aries"];
-   ?><br>
+    echo $_POST['aries'];
+   ?>
 </body>
+</html>
